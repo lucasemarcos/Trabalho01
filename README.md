@@ -74,7 +74,7 @@ Complemento: Informações adicionais.<br>
 
 
 ### 6	MODELO LÓGICO<br>
-![Alt text](https://github.com/lucasemarcos/Trabalho01/blob/master/Modelo_Fisico.PNG "Modelo Logico")
+![Alt text](https://github.com/lucasemarcos/Trabalho01/blob/master/Modelo_Fisico.PNG "Modelo Logico.")
 ### 7	MODELO FÍSICO<br>
 
         Entrega até este ponto em (data a ser definida)
