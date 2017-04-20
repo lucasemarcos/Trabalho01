@@ -40,11 +40,37 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
     b) justifique!
 
 #### 5.3 DESCRIÇÃO DOS DADOS 
-    [objeto]: [descrição do objeto]
-    
-    EXEMPLO:
-    CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
-    CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
+Morador: Tabela que armazena as informações relativas ao Morador.<br>
+Nome: campo que contém o nome completo do morador.<br>
+CPF: campo que armazena o número de Cadastro de Pessoa Física do morador.<br>
+RG: Campo que armazena o Registro Geral do morador.<br>
+Sexo: campo responsavel pelo armazenamento do genero do morador.<br>
+Data de Nascimento: Data em que o morador nasceu.<br>
+<br>
+Veiculos: Tabela que armazena as informações relativas aos Veiculos.<br>
+Placa: campo que armazena dados da placa do veiculo.<br>
+Marca: Empresa fabricante do modelo.<br>
+Chassi: Código único do carro.<br>
+Modelo: Campo que armazena o modelo do carro.<br>
+Cor: Campo que armazena a cor correspondente do veiculo.<br>
+<br>
+Contato: Tabela que armazena as informações relativas aos Contatos.<br>
+Residencial: Campo do telefone Fixo do morador.<br>
+WhatsApp: Número de contato do WhatsApp.<br>
+Celular: Número de contato movel.<br>
+E-mail: Endereço eletronico.<br>
+<br>
+Endereço: Tabela que armazena as informações relativas ao Endereço.<br>
+Bloco: Campo que guarda o numero ou letra de um predio dentro do condominio.<br>
+Número: Campo do número do endereço do condominio.<br>
+Cidade: Campo que armazena a cidade correspondente ao endereço do condominio.<br>
+Estado: Campo que armazena a estado correspondente ao endereço do condominio.<br>
+País: Campo que armazena a localização nacional do condominio.<br>
+Rua: Nome da rua.<br>
+Bairro: Nome do Bairro.<br>
+CEP: Codigo referente ao endereço do condominio.<br>
+Numero do Apartamento: Campo que armazena o numero do Apartamento.<br>
+Complemento: Informações adicionais.<br>
 
 
 ### 6	MODELO LÓGICO<br>
