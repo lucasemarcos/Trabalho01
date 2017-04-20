@@ -23,7 +23,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 ### 5.MODELO CONCEITUAL<br>
     a) NOTACAO ENTIDADE RELACIONAMENTO
-![Alt text](https://github.com/discipbd1/trab01/blob/master/sample_MC.png?raw=true "Modelo Conceitual")
+![Alt text](https://github.com/lucasemarcos/Trabalho01/blob/master/Modelo_conceitual.PNG "Modelo Conceitual")
     
     b) NOTACAO UML (Caso esteja fazendo a disciplina de analise)
 
@@ -48,6 +48,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 
 ### 6	MODELO LÓGICO<br>
+![Alt text](https://github.com/lucasemarcos/Trabalho01/blob/master/Modelo_Fisico.PNG "Modelo Logico")
 ### 7	MODELO FÍSICO<br>
 
         Entrega até este ponto em (data a ser definida)
