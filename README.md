@@ -1,5 +1,5 @@
 # TRABALHO 01
-Trabalho desenvolvido durante a disciplina de BD
+Projeto desenvolvido durante a disciplina de BD
 
 # Sumário
 
@@ -11,12 +11,10 @@ Este documento contém a especificação do projeto do banco de dados "SegCondo"
 A motivação do Projeto foi a falta de segurança encontrada em alguns condominios, onde existe um controle ineficiente de entrada de veiculos. O projeto tem como finalidade, atraves de uma camera e escaneando a placa de um veiculo, controlar o acesso dos veiculos a um condominio de forma a agilizar o trabalho da portaria e otimizar a segurança do acesso ao condominio.  <br>
 
 ### 3.MINI-MUNDO<br>
-Considerando a insegurança de muitos condominios, no que diz respeito ao acesso de veiculos, onde utiliza-se adesivos que indicam o simbolo do condominio ou até mesmo o bom-senso do porteiro para identificação dos veiculos e sendo esses metodos facilmente burlados por invasores. Criaremos um sitema para facilitar o trabalho do porteiro e otimizar a segurança do condominio. Será feito atraves de uma camera o reconhecimento da placa do veiculo que solicita entrada no condominio, as informações serão processadas e as letras e os numeros da placa serão pesquisados em um banco de dados que contera informações do carro e de seu proprietario. Após a pesquisa o porteiro sera notificado com informações referente ao veiculo e sua autorização ou não- caso não seja um veiculo cadastrado - para entrar no condominio. O sistema oferecera ao operador ainda opções para cadastra, alterar e excluir dados referentes aos veiculos e seus proprietarios. <br>
+Considerando a insegurança de muitos condominios, no que diz respeito ao acesso de veiculos, onde utiliza-se adesivos que indicam o simbolo do condominio ou até mesmo o bom-senso do porteiro para identificação dos veiculos e sendo esses metodos facilmente burlados por invasores. Criaremos um sitema para facilitar o trabalho do porteiro e otimizar a segurança do condominio. Será feito atraves de uma camera o reconhecimento da placa do veiculo que solicita entrada, as informações serão processadas e as letras e os numeros da placa serão pesquisados em um banco de dados que contera informações do carro e de seu proprietario, após a pesquisa, o porteiro sera notificado com informações referente ao veiculo e sua autorização ou não- caso não seja um veiculo cadastrado - para entrar no condominio. O sistema oferecera ao operador ainda opções para cadastra, alterar e excluir dados referentes aos veiculos e seus proprietarios. <br>
 
 ### 4.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas <br>
-
-Sugestão: https://balsamiq.com/products/mockups/<br>
 
 ![Alt text](https://github.com/lucasemarcos/Trabalho01/blob/master/SegCondo.pdf "SegCondo")
 
